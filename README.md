@@ -10,7 +10,7 @@ Orders, Items, Products.
 ## Functionalities
 - Provides the searching facilities based on various factors. Such as Canteen, Orders, Items,
   Products
-- College Management System also sells the employees details online for students details,
+- Canteen Inventory Management System also sells the employees details online for students details,
   employees details, courses.
 - It tracks all the information of Sales, Food, Items ect
 - Manage the information of Sales
